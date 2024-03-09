@@ -22,8 +22,10 @@ Testing the commands for the desired output.
 
 # COMMANDS:
 ### Create the following files file1, file2 as follows:
-/* Done by : R. SUDHIR KUMAR
-Register number : 212223230221*/
+```
+Done by : R. SUDHIR KUMAR
+Register number : 212223230221
+```
 cat > file1
 ```
 chanchal singhvi
